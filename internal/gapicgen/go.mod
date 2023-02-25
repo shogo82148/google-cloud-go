@@ -10,7 +10,7 @@ require (
 	github.com/shurcooL/graphql v0.0.0-20200928012149-18c5c3165e3a // indirect
 	golang.org/x/oauth2 v0.0.0-20210514164344-f6687ab2804c
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210514084401-e8d321eab015
+	golang.org/x/sys v0.1.0
 	google.golang.org/genproto v0.0.0-20210506142907-4a47615972c2
 	google.golang.org/protobuf v1.26.0
 	gopkg.in/src-d/go-git.v4 v4.13.1
